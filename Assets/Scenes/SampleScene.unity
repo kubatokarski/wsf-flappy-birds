@@ -168,6 +168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipe: {fileID: 9011526580475628753, guid: 8155d33d9f28c48c0b3e09076423aa0a, type: 3}
+  spawnRate: 2.5
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
