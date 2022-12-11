@@ -5,6 +5,10 @@
 
 ![Flappy Birds Screenshot](./wsf-flappy-birds_screen.png)
 
+# Flappy Birds – Unity Tutorial for Complete Begginers.
+
+['**The Unity Tutorial (If You Hate Tutorials)**'](https://www.youtube.com/watch?v=XtQMytORBmM) by *Game Maker's Toolkit* 
+
 Tutorial dla absolutnie początkujących w Unity (czyli dokładnie takich jak ja), którego celem jest odtworzenie podstawowej wersji gry Flappy Birds i jednoczesne nauczenie się podstawowych mechanik w Unity.
 
 Wykonany na potrzeby nauki do stworzenia projektu na przedmiot [Tworzenie Gier Komputerowych i Mobilnych](https://github.com/kubatokarski/wsf-tgkim).
@@ -21,9 +25,6 @@ Wykonany na potrzeby nauki do stworzenia projektu na przedmiot [Tworzenie Gier K
 - tags, layers
 - Game Over UI, Scene Manager
 
-# Flappy Birds – Unity Tutorial for Complete Begginers.
-
-['**The Unity Tutorial (If You Hate Tutorials)**'](https://www.youtube.com/watch?v=XtQMytORBmM) by *Game Maker's Toolkit* 
 
 ### ✅ COMPLETED
 
